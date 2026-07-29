@@ -1,0 +1,17 @@
+# 교육과정 원본 PDF — 저작권과 용량(약 30MB) 때문에 저장소에 올리지 않는다. 로컬에만 보관한다.
+01. 교육과정/
+*.pdf
+
+# Claude Code 로컬 설정
+.claude/settings.local.json
+
+# 편집기·운영체제 임시 파일
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
+
+# 이 프로젝트는 npm을 쓰지 않는다 (도구가 자동 생성하는 빈 파일 무시)
+package-lock.json
+node_modules/
