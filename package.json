@@ -1,0 +1,23 @@
+{
+  "name": "binary-converter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "10진수 ↔ 2진수 변환 학습기 — 고등학교 정보 「디지털 데이터 표현 방법」 수업용 웹앱",
+  "type": "module",
+  "scripts": {
+    "start": "vite --open",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "교육",
+    "정보",
+    "이진수",
+    "진법변환"
+  ],
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "vite": "^8.1.5"
+  }
+}
